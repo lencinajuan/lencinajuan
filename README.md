@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lencinajuan
 - 👀 I’m interested in Python and PHP
-- 🌱 I’m currently learning Laravel, Vue.js and Django
+- 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on nothing specific on moment
 - 📫 How to reach me send me a message on whats: +5551996827761
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I drive a slow Honda Civic EG 93' with stock D15B12 (and I love/hate this car)
+- ⚡ Fun fact: I drive a slow Honda Civic EG 93' with stock D15B12 (and I love/hate this car), but I want to put a D16Z6
 
 <!---
 lencinajuan/lencinajuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
