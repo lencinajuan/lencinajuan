@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lencinajuan
-- 👀 I’m interested in Python and PHP
+- 👀 I’m interested in Python and Java.
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on nothing specific on moment
 - 📫 How to reach me send me a message on whats: +5551996827761
